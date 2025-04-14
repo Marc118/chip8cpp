@@ -1,4 +1,4 @@
-// Stephane Duguay et Jean-Sebastien Ross
+// Stephane Duguay et Jean-Sebastien Ross ET Marc-Antoine Provencher-Noel (litteralment faire 95% du projet)
 
 // Tutorial: https://austinmorlan.com/posts/chip8_emulator/
 // Test ROMs: https://github.com/dmatlack/chip8/tree/master/roms/games
