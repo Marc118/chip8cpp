@@ -1,5 +1,5 @@
 export module VideoBuffer;
-
+//marc-antoine Provencher-noel
 export import IVideoBuffer;
 
 import <cstdint>;
